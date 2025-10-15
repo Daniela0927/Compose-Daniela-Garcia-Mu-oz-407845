@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counter Views"
+rootProject.name = "Profile"
 include(":app")
+ 
