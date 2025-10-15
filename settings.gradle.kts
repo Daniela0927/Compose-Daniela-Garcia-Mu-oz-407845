@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counter Compose"
+rootProject.name = "Settings"
 include(":app")
- 
