@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counter Views"
+rootProject.name = "Counter Compose"
 include(":app")
+ 
